@@ -11,11 +11,11 @@
 	],
   "author": "D4-Ramirez",
   "license": "MIT",
-  "homepage": "https://cocopon.github.io/iceberg.vim/",
+  "homepage": "https://iceberg.rest/plugins/insomnia-plugin-iceberg-theme",
   "insomnia": {
 		"name": "iceberg-theme",
 		"displayName": "Iceberg Theme",
-		"description": "A blueish color scheme.",
+		"description": "A blueish color scheme for Insomnia - Based on Iceberg Theme from Cocopon",
 		"publisher": {
 			"name": "D4Ramirez"
 		},
