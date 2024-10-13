@@ -1,0 +1,24 @@
+{
+  "name": "insomnia-plugin-iceberg-theme",
+  "version": "0.0.1",
+  "description": "A blueish color scheme",
+  "main": "app.js",
+  "keywords": [
+		"iceberg",
+		"theme",
+		"insomnia",
+		"insomnia-plugin"
+	],
+  "author": "D4-Ramirez",
+  "license": "MIT",
+  "homepage": "https://cocopon.github.io/iceberg.vim/",
+  "insomnia": {
+		"name": "iceberg-theme",
+		"displayName": "Iceberg Theme",
+		"description": "A blueish color scheme.",
+		"publisher": {
+			"name": "D4Ramirez"
+		},
+		"unlisted": true
+	}
+}
