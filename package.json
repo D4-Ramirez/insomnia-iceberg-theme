@@ -1,24 +1,31 @@
 {
-  "name": "insomnia-plugin-iceberg",
-  "version": "0.0.2",
-  "description": "A blueish color scheme",
-  "main": "app.js",
-  "keywords": [
+	"name": "insomnia-plugin-iceberg",
+	"version": "0.0.3",
+	"description": "A blueish color scheme",
+	"main": "app.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/D4-Ramirez/insomnia-iceberg-theme"
+	},
+	"keywords": [
 		"iceberg",
 		"theme",
 		"insomnia",
 		"insomnia-plugin"
 	],
-  "author": "D4-Ramirez",
-  "license": "MIT",
-  "homepage": "https://insomnia.rest/plugins/insomnia-plugin-iceberg",
-  "insomnia": {
+	"author": "D4-Ramirez",
+	"license": "MIT",
+	"homepage": "https://insomnia.rest/plugins/insomnia-plugin-iceberg",
+	"insomnia": {
 		"name": "iceberg-theme",
 		"displayName": "Iceberg Theme",
 		"description": "A blueish color scheme for Insomnia - Based on Iceberg Theme from Cocopon",
 		"publisher": {
 			"name": "D4Ramirez"
 		},
-		"unlisted": false
+		"unlisted": false,
+		"images": {
+			"icon": "./assets/icon.png"
+		}
 	}
 }
