@@ -1,5 +1,5 @@
 {
-  "name": "insomnia-plugin-iceberg-theme",
+  "name": "insomnia-plugin-iceberg",
   "version": "0.0.1",
   "description": "A blueish color scheme",
   "main": "app.js",
