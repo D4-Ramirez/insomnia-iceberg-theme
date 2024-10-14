@@ -11,7 +11,7 @@
 	],
   "author": "D4-Ramirez",
   "license": "MIT",
-  "homepage": "https://iceberg.rest/plugins/insomnia-plugin-iceberg-theme",
+  "homepage": "https://insomnia.rest/plugins/insomnia-plugin-iceberg-theme",
   "insomnia": {
 		"name": "iceberg-theme",
 		"displayName": "Iceberg Theme",
